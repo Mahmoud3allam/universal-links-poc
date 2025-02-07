@@ -3,8 +3,13 @@
     "apps": [],
     "details": [
       {
-        "appID": "YOUR_TEAM_ID.com.yourapp.bundle",
-        "paths": [ "/open/*" ]
+        "appID": "Y823233D3J.com.allam.SchemeNavigationReciever",
+        "paths": [
+          "/open/*",
+          "/profile/*",
+          "/dashboard",
+          "/settings"
+        ]
       }
     ]
   }
